@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.29102.190
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDotNetFramework", "ConsoleAppDotNetFramework\ConsoleAppDotNetFramework.csproj", "{3FF88FFB-3736-49CB-8E7A-33AA540CA723}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppDotNetCore", "ConsoleAppDotNetCore\ConsoleAppDotNetCore.csproj", "{A3028070-6E29-449F-A5CA-6B45F4E9CB4C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppDotNetCore", "ConsoleAppDotNetCore\ConsoleAppDotNetCore.csproj", "{A3028070-6E29-449F-A5CA-6B45F4E9CB4C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationDotNetCore", "WebApplicationDotNetCore\WebApplicationDotNetCore.csproj", "{39B0A90F-97CD-44FA-9494-6A4B5EB7422C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationDotNetCore", "WebApplicationDotNetCore\WebApplicationDotNetCore.csproj", "{39B0A90F-97CD-44FA-9494-6A4B5EB7422C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationDotNetFramework", "WebApplicationDotNetFramework\WebApplicationDotNetFramework.csproj", "{40ADDCB8-5D3E-4B12-B393-887AF8A760AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIdotNetCore", "WebAPIdotNetCore\WebAPIdotNetCore.csproj", "{54149D6C-10E1-460F-82AE-C7516A3EB652}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIdotNetFramework", "WebAPIdotNetFramework\WebAPIdotNetFramework.csproj", "{034F57E9-8F58-4764-92D6-710AAAC21559}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{40ADDCB8-5D3E-4B12-B393-887AF8A760AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40ADDCB8-5D3E-4B12-B393-887AF8A760AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40ADDCB8-5D3E-4B12-B393-887AF8A760AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54149D6C-10E1-460F-82AE-C7516A3EB652}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54149D6C-10E1-460F-82AE-C7516A3EB652}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54149D6C-10E1-460F-82AE-C7516A3EB652}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54149D6C-10E1-460F-82AE-C7516A3EB652}.Release|Any CPU.Build.0 = Release|Any CPU
+		{034F57E9-8F58-4764-92D6-710AAAC21559}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{034F57E9-8F58-4764-92D6-710AAAC21559}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{034F57E9-8F58-4764-92D6-710AAAC21559}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{034F57E9-8F58-4764-92D6-710AAAC21559}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
