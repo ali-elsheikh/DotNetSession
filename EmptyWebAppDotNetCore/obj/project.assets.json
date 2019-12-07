@@ -12084,11 +12084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj",
-      "projectName": "WebApplicationDotNetCore",
-      "projectPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj",
+      "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\EmptyWebAppDotNetCore\\EmptyWebAppDotNetCore.csproj",
+      "projectName": "EmptyWebAppDotNetCore",
+      "projectPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\EmptyWebAppDotNetCore\\EmptyWebAppDotNetCore.csproj",
       "packagesPath": "C:\\Users\\Bashmohandes\\.nuget\\packages\\",
-      "outputPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\obj\\",
+      "outputPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\EmptyWebAppDotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

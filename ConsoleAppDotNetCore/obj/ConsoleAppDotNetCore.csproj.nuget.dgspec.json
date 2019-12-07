@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source Code\\dotNetSessionDemo\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj": {}
+    "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj": {}
   },
   "projects": {
-    "D:\\Source Code\\dotNetSessionDemo\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj": {
+    "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj",
+        "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj",
         "projectName": "ConsoleAppDotNetCore",
-        "projectPath": "D:\\Source Code\\dotNetSessionDemo\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj",
+        "projectPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\ConsoleAppDotNetCore\\ConsoleAppDotNetCore.csproj",
         "packagesPath": "C:\\Users\\Bashmohandes\\.nuget\\packages\\",
-        "outputPath": "D:\\Source Code\\dotNetSessionDemo\\ConsoleAppDotNetCore\\obj\\",
+        "outputPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\ConsoleAppDotNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

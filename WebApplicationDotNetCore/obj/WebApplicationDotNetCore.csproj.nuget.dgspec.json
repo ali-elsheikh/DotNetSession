@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Source Code\\dotNetSessionDemo\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj": {}
+    "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj": {}
   },
   "projects": {
-    "D:\\Source Code\\dotNetSessionDemo\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj": {
+    "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj",
+        "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj",
         "projectName": "WebApplicationDotNetCore",
-        "projectPath": "D:\\Source Code\\dotNetSessionDemo\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj",
+        "projectPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\WebApplicationDotNetCore.csproj",
         "packagesPath": "C:\\Users\\Bashmohandes\\.nuget\\packages\\",
-        "outputPath": "D:\\Source Code\\dotNetSessionDemo\\WebApplicationDotNetCore\\obj\\",
+        "outputPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebApplicationDotNetCore\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

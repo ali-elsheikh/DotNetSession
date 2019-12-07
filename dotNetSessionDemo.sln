@@ -11,9 +11,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebApplicationDotNetCore", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplicationDotNetFramework", "WebApplicationDotNetFramework\WebApplicationDotNetFramework.csproj", "{40ADDCB8-5D3E-4B12-B393-887AF8A760AA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIdotNetCore", "WebAPIdotNetCore\WebAPIdotNetCore.csproj", "{54149D6C-10E1-460F-82AE-C7516A3EB652}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WebAPIdotNetCore", "WebAPIdotNetCore\WebAPIdotNetCore.csproj", "{54149D6C-10E1-460F-82AE-C7516A3EB652}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAPIdotNetFramework", "WebAPIdotNetFramework\WebAPIdotNetFramework.csproj", "{034F57E9-8F58-4764-92D6-710AAAC21559}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyWebAppDotNetFrameWork", "EmptyWebAppDotNetFrameWork\EmptyWebAppDotNetFrameWork.csproj", "{DD6615D8-DCA4-49CD-B5C5-DE277EDDEDFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmptyWebAppDotNetCore", "EmptyWebAppDotNetCore\EmptyWebAppDotNetCore.csproj", "{B4D02ED0-F20D-44DD-A640-AA53EA0F5187}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{034F57E9-8F58-4764-92D6-710AAAC21559}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{034F57E9-8F58-4764-92D6-710AAAC21559}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{034F57E9-8F58-4764-92D6-710AAAC21559}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD6615D8-DCA4-49CD-B5C5-DE277EDDEDFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD6615D8-DCA4-49CD-B5C5-DE277EDDEDFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD6615D8-DCA4-49CD-B5C5-DE277EDDEDFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD6615D8-DCA4-49CD-B5C5-DE277EDDEDFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4D02ED0-F20D-44DD-A640-AA53EA0F5187}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D02ED0-F20D-44DD-A640-AA53EA0F5187}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D02ED0-F20D-44DD-A640-AA53EA0F5187}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D02ED0-F20D-44DD-A640-AA53EA0F5187}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -12084,11 +12084,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\WebAPIdotNetCore\\WebAPIdotNetCore.csproj",
+      "projectUniqueName": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebAPIdotNetCore\\WebAPIdotNetCore.csproj",
       "projectName": "WebAPIdotNetCore",
-      "projectPath": "D:\\Source Code\\dotNetSessionDemo\\WebAPIdotNetCore\\WebAPIdotNetCore.csproj",
+      "projectPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebAPIdotNetCore\\WebAPIdotNetCore.csproj",
       "packagesPath": "C:\\Users\\Bashmohandes\\.nuget\\packages\\",
-      "outputPath": "D:\\Source Code\\dotNetSessionDemo\\WebAPIdotNetCore\\obj\\",
+      "outputPath": "D:\\Source Code\\dotNetSessionDemo\\DotNetSession\\WebAPIdotNetCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
