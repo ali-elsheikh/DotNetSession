@@ -1,4 +1,9 @@
 # DotNetSession
+
+#prezentation
+
+https://prezi.com/p/xrqfvmcaw6qm/
+
 #references 
 
 https://docs.microsoft.com/en-us/dotnet/standard/choosing-core-framework-server?toc=%2Faspnet%2Fcore%2Ftoc.json&bc=%2Faspnet%2Fcore%2Fbreadcrumb%2Ftoc.json&view=aspnetcore-2.2
